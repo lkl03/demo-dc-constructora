@@ -1,2 +1,7 @@
-# demo-dc-constructora
-Demo web para DC constructora — diseñada por eterlab.
+# DC constructora
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
